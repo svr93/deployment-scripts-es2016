@@ -1,6 +1,7 @@
 
 # installs Babel plugins
 npm i --save-dev babel-plugin-transform-es2015-arrow-functions
+npm i --save-dev babel-plugin-transform-es2015-block-scoping
 
 # installs polyfills
 bower i --save array.from
