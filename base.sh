@@ -1,4 +1,7 @@
 
+# installs Babel plugins
+npm i --save-dev babel-plugin-transform-es2015-arrow-functions
+
 # installs polyfills
 bower i --save array.from
 bower i --save es6-math
